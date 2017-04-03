@@ -26,7 +26,7 @@ for i in range(1000):
     #### INSERT YOUR CODE HERE ####
     ## 1. Create two dice variables
     
-    ## 2. Roll each dice
+    ## 2. Roll each dice, hint : use random.randint 
     
     ## 3. Sum up the dice rolls
     
